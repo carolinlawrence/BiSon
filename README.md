@@ -32,7 +32,7 @@ which are required to reproduce the results reported in the paper:
     and have execution rights (e.g. `chmod u+x bison/evals/multi-bleu.perl`)
 - [Sharc Evaluation Script](https://sharc-data.github.io/):
     The official sharc evaluation script needs to be downloaded and placed in 
-    `bison/evals/evaluator_sharc.py`
+    `bison/evals/evaluator_sharc.py`. It can be found in the codalab of the Sharc dataset: https://worksheets.codalab.org/worksheets/0xcd87fe339fa2493aac9396a3a27bbae8/, search for "evaluator.py".
 
 <a name="overview"></a>
 ## Overview
